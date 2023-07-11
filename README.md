@@ -1,3 +1,4 @@
+![MasterHead](https://i.pinimg.com/originals/5b/fa/72/5bfa72275c887e5ffa7bc290d9e8811b.gif)
 <h1 align="center">Hi 👋, I'm Abdullah Aljubran</h1>
 <h3 align="center">A Computer science student at King Faisal University</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c2/34/ba/c234babb3445ee509569b656ada08cef.gif">
@@ -13,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/abdullahaljubran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdullahaljubran" height="30" width="40" /></a>
+<a href="https://twitter.com/ِABHJ34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrturkim7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
