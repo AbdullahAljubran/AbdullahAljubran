@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/5b/fa/72/5bfa72275c887e5ffa7bc290d9e8811b.gif)
+<p align="center"><img src="https://i.pinimg.com/originals/5b/fa/72/5bfa72275c887e5ffa7bc290d9e8811b.gif" alt="Web Development" class="header-img" width="300"></p>
 <h1 align="center">Hi 👋, I'm Abdullah Aljubran</h1>
 <h3 align="center">A Computer science student at King Faisal University</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c2/34/ba/c234babb3445ee509569b656ada08cef.gif">
