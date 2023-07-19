@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pinimg.com/originals/83/97/3f/83973f12d0d99dc14f122739fd81f6e0.gif" alt="Web Development" class="header-img" width="300"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/69/75/69/6975690800c571c908eef42d0189c961.gif" alt="Web Development" class="header-img" width="300"></p>
 <h1 align="center">Hi 👋, I'm Abdullah Aljubran</h1>
 <h3 align="center">A Computer science student at King Faisal University</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c2/34/ba/c234babb3445ee509569b656ada08cef.gif">
