@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **Front-end development**
+- 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **AI and it's applications**
+- 🌱 I’m currently learning **Data Science,AI and it's applications**
 
 - 📫 How to reach me **AbdullahAljubran1@gmail.com**
 
