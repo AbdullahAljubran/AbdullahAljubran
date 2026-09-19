@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pinimg.com/originals/6d/f1/f9/6df1f9e4ba3324363c8edd44041bdab7.gif" alt="Web Development" class="header-img" width="300"></p>
+<p align="center"><img src="https://i.pinimg.com/1200x/8a/41/1d/8a411d76aeeac1e0d3002f124456e41d.jpg" alt="Web Development" class="header-img" width="300"></p>
 <h1 align="center">Hi 👋, I'm Abdullah Aljubran</h1>
 <h3 align="center">A Computer science freash graduate</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c2/34/ba/c234babb3445ee509569b656ada08cef.gif">
