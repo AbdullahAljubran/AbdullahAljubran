@@ -1,2 +1,2 @@
-<p align="center"><img src="https://i.pinimg.com/736x/a4/1d/02/a41d02c0d9596f49dba9051aa243276d.jpg" alt="Web Development" class="header-img""></p>
+<p align="center"><img src="blob:https://claude.ai/e0b39221-8f03-4045-a3a2-06a0f0db8a7d" alt="Web Development" class="header-img""></p>
 
